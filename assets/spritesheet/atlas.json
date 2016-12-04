@@ -1,0 +1,13 @@
+{
+"images": ["./assets/spritesheet/atlas.png"],
+"frames": [
+
+    [1, 1, 39, 39], 
+    [42, 1, 600, 600]
+],
+"animations": {
+    
+        "car":[0], 
+        "race_track":[1]
+}
+}

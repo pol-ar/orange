@@ -1,0 +1,14 @@
+{
+	"FPS": 60,
+
+	"stageWidth": 600,
+	"stageHeight": 600,
+
+	"physics": {
+	    "scale": 30,
+	    "vIter": 8,
+	    "pIter": 3
+	},
+
+	"max_laps": 1
+}

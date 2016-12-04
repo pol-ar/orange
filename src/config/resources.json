@@ -1,0 +1,6 @@
+{
+    "assets": [
+        {"id": "atlasImg",  "src": "./assets/spritesheet/atlas.png"},
+        {"id": "atlasData", "src": "./assets/spritesheet/atlas.json"}
+    ]
+}
